@@ -1,0 +1,13 @@
+spring:
+  application:
+    name:
+      API
+  datasource:
+    url:
+    username:
+    password: 
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
